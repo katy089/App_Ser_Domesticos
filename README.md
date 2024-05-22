@@ -1,6 +1,4 @@
-# React + TypeScript + Vite
 
-# <img width="40" height="40" src="https://img.icons8.com/dusk/40/binance.png" alt="binance"/> Equipo - c16-62-n-node-react
 
 
 Una aplicación que hará que la busqueda de trabajadores para tareas del hogar sea mucho mas facíl; Electricistas, Gasistas, Plomeros, todo en un solo lugar. 
