@@ -14,31 +14,7 @@ Entendemos que a la hora de hallar el trabajador indicado para ciertas tareas de
 --- Back end: https://c-16-62-n-node-react-ksch.vercel.app
 --- Front end: https://c-16-62-n-node-react-vvlt.vercel.app
 
-## <img width="30" height="30" src="https://img.icons8.com/doodle/30/crowd.png" alt="crowd"/> INTEGRANTES
 
-
-| <img width="30" height="30" src="https://img.icons8.com/dusk/30/web.png" alt="web"/> FrontEnd |
-| -------------- |
-| [<img width="20" height="20" src="https://img.icons8.com/ios-filled/20/github.png" alt="github"/> Santino Bertola](https://github.com/SantiBertola) |
-| [<img width="20" height="20" src="https://img.icons8.com/ios-filled/20/github.png" alt="github"/> Federico Dorigatti](https://github.com/F-DoriAssan) |
-
-
-
-| <img width="30" height="30" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/30/external-server-miscellaneous-kiranshastry-lineal-color-kiranshastry.png" alt="external-server-miscellaneous-kiranshastry-lineal-color-kiranshastry"/> BackEnd |
-| ----------|
-| [<img width="20" height="20" src="https://img.icons8.com/ios-filled/20/github.png" alt="github"/>  Pablo Nudenberg](https://github.com/pablomh3) |
-| [<img width="20" height="20" src="https://img.icons8.com/ios-filled/20/github.png" alt="github"/> Sebastian Castiblanco](https://github.com/Dracarystian) |
-
-
-| <img width="30" height="30" src="https://img.icons8.com/dotty/30/web.png" alt="web"/> UX/UI |
-| -------- |
-| [<img width="20" height="20" src="https://img.icons8.com/ios-filled/20/github.png" alt="github"/> Santino Bertola](https://github.com/SantiBertola) |
-
-| TEAM LEADER |
-| -- |
-| [Franco Ojeda](24martin94@gmail.com) |
-
----
 
 ## <img width="40" height="40" src="https://img.icons8.com/ios-filled/40/rdp-connection.png" alt="rdp-connection"/>  TECNOLOGÍAS UTILIZADAS
 
