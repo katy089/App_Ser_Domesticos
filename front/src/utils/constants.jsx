@@ -1,0 +1,1 @@
+export const BASE_URL = "https://c-16-62-n-node-react-ksch.vercel.app"
