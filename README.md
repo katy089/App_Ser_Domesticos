@@ -9,7 +9,6 @@ Entendemos que a la hora de hallar el trabajador indicado para ciertas tareas de
 
 ## <img width="40" height="40" src="https://img.icons8.com/cotton/40/movie-beginning--v1.png" alt="movie-beginning--v1"/> LINKS DE DEPLOY
 
---- Back end: https://c-16-62-n-node-react-ksch.vercel.app
 --- Front end: https://c-16-62-n-node-react-vvlt.vercel.app
 
 
